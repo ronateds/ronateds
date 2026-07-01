@@ -1,1 +1,1 @@
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ronateds&langs_count=5)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ronateds&rank_icon=github&hide_title=true&include_all_commits=true&hide=stars,contribs)](https://github-stats-extended.vercel.app/api?username=ronateds&rank_icon=github&hide_title=true&include_all_commits=true)
